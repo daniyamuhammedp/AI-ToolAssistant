@@ -1,0 +1,23 @@
+JavaScript Notes
+
+JavaScript is a programming language used to make websites interactive.
+
+Variables:
+Variables store data.
+
+Three ways to declare variables:
+1. var
+2. let
+3. const
+
+Functions:
+Functions are reusable blocks of code.
+
+Arrays:
+Arrays store multiple values in one variable.
+
+Objects:
+Objects store data using key-value pairs.
+
+Loops:
+Loops repeat a block of code.

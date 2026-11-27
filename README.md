@@ -334,7 +334,7 @@ You will also need API keys for:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone git clone https://github.com/daniyamuhammedp/AI-ToolAssistant.git
 ```
 
 ### 2. Navigate to the Project
